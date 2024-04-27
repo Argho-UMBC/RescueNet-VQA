@@ -3,7 +3,7 @@
 RescueNet-VQA dataset can be found [here](https://drive.google.com/file/d/1HVnGrxoE-dYvqBVntz8Mcw7dCMJxLHwD/view?usp=drive_link)
 
 ### RescueNet-VQA Dataset
-![RescueNet-VQA Dataset](RescueNet.png)
+![RescueNet-VQA Dataset](resnet.png)
 
 ### License
 This dataset is released [under the Creative Common License CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/).
