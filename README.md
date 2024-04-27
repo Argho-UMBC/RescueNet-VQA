@@ -18,6 +18,5 @@ This dataset is released [under the Creative Common License CC BY-NC-ND](https:/
  > volume={},\
  > number={},\
  > pages={1150-1153},\
- > keywords={Visualization;Analytical models;Decision making;Benchmark testing;Question answering (information retrieval);Hurricanes;Task analysis;Visual Question Answering;Remote-Sensing;Damage Assessment;Natural Disaster;Multi-modal},\
  > doi={10.1109/IGARSS52108.2023.10281747}}
 
