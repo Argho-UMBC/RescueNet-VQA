@@ -1,6 +1,6 @@
 ## RescueNet-VQA
 
-RescueNet-VQA dataset can be found [here](https://drive.google.com/drive/folders/1s4752g65dcBJAI27_6XSenxoe89a_4gA?usp=drive_link)
+RescueNet-VQA dataset can be found [here](https://www.dropbox.com/scl/fo/e9enhklpqxeq13g2mfl2s/ABYcvD8MM77H1oiTna5xwy0?rlkey=avfa3kivm3coxta98r1si0ttu&st=c897omey&dl=0)
 
 ### RescueNet-VQA Dataset
 ![RescueNet-VQA Dataset](resnet.png)
