@@ -9,7 +9,7 @@ RescueNet-VQA dataset can be found [here](https://drive.google.com/file/d/1HVnGr
 This dataset is released [under the Creative Common License CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
-### Citation 
+### Citation [paper](https://ieeexplore.ieee.org/document/10281747)
 >@INPROCEEDINGS{10281747,\
  > author={Sarkar, Argho and Rahnemoonfar, Maryam},\
   >booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, \
